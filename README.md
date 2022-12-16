@@ -4,7 +4,7 @@
 
 **`Junior in the field of Data Science (self-study for more than a year)`**
 
-I,m an Electrical Engineer, junior Data  Scientist & an indie both fields.Also a content creator trying to build a version of an intelligent & improved electric world step by step through the use of data science to solve the electrical problems that interest me. I publish that content on my YouTube channel "[Electro player][https://youtube.com/@ziyadalharbi2609]" to share a little bit of what I learned from information and projects.
+I,m an Electrical Engineer, junior Data  Scientist & an indie both fields.Also a content creator trying to build a version of an intelligent & improved electric world step by step through the use of data science to solve the electrical problems that interest me. I publish that content on my YouTube channel "[Electro player][(https://www.youtube.com/@ziyadAlmuzainy)]" to share a little bit of what I learned from information and projects.
 
 
 ---
