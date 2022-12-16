@@ -1,3 +1,3 @@
 # :man_technologist: ZiyadAlmuzainy
 
-**`Junior Electrical Engineer & Data scientist Field by`**
+**`Electrical Engineer (Graduated in 2022)`**
