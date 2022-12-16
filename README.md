@@ -1,4 +1,4 @@
-# :man_technologist: ZiyadAlmuzainy
+# :electron: ZiyadAlmuzainy
 
 **`Electrical Engineer (Graduated in 2022)`**
 
@@ -8,7 +8,7 @@ I,m an Electrical Engineer, junior Data  Scientist & an indie both fields.Also a
 
 ---
 
-### 🧰 Languages and Tools
+### :man_technologist: Languages and Tools
 
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Python/Python original.svg"/> 
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/MySQL/MySQL-original.svg" /> 
