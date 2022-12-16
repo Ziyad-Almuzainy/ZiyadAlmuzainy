@@ -1,3 +1,3 @@
 # :man_technologist: ZiyadAlmuzainy
 
-**`Junior Electrical Engineer & Data scientist Field by self-study.`**
+**`Junior Electrical Engineer & Data scientist Field by`**
