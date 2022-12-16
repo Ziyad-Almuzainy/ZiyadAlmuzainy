@@ -10,7 +10,6 @@ I,m an Electrical Engineer, junior Data  Scientist & an indie both fields.Also a
 
 ### :man_technologist: Languages and Tools
 
-file:///Users/ziyad/Downloads/si-sprite-2.svg
 
 
 #
