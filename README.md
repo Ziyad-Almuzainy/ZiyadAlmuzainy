@@ -2,9 +2,9 @@
 
 **`Electrical Engineer`**
 
-**`Junior in the field of Data Science (self-study for more than a year)`**
 
-I,m an Electrical Engineer, junior Data  Scientist & an indie both fields.Also a content creator trying to build a version of an intelligent & improved electric world step by step through the use of data science to solve the electrical problems that interest me. I publish that content on my YouTube channel "[Electroplayer](https://www.youtube.com/@ziyadAlmuzainy/featured)" to share a little bit of what I learned from information and projects. 
+Simulation, modeling and design of systems using MATLAB in the field of electrical engineering as well as the practice and development of my data science skills with Python.
+ 
 
 ---
 
