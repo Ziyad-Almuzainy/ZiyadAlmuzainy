@@ -3,7 +3,7 @@
 **`Electrical Engineer`**
 
 
-Simulation, modeling and design of systems using MATLAB in the field of electrical engineering as well as the practice and development of my data science skills with Python.
+Simulation, modeling and design of systems using MATLAB in the field of electrical engineering, as well as the practice and development of my data science skills using Python.
  
 
 ---
